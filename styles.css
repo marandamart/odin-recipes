@@ -1,0 +1,14 @@
+
+h1 {text-align:center;
+color:darkslategrey;
+font-size:50px;
+background-color:powderblue;}
+ul {text-align: center;}
+
+li {color:white;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+font-weight:bold;
+margin-top:50px;
+padding:20px;
+background-color:rgb(214, 204, 194);
+}
